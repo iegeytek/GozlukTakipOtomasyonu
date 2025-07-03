@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GozlukcuTakipOtomasyonu", "GozlukcuTakipOtomasyonu\GozlukcuTakipOtomasyonu.csproj", "{4BDA7B82-3710-46CB-B705-7C8CAC5026DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BDA7B82-3710-46CB-B705-7C8CAC5026DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BDA7B82-3710-46CB-B705-7C8CAC5026DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BDA7B82-3710-46CB-B705-7C8CAC5026DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BDA7B82-3710-46CB-B705-7C8CAC5026DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3DE93E7-104A-4337-8591-C0F1E9F39A94}
+	EndGlobalSection
+EndGlobal

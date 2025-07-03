@@ -1,0 +1,41 @@
+C:\Users\ASUS\Desktop\ntp performans\GozlukcuTakipOtomasyonu\GozlukcuTakipOtomasyonu\bin\Debug\GozlukcuTakipOtomasyonu.exe.config
+C:\Users\ASUS\Desktop\ntp performans\GozlukcuTakipOtomasyonu\GozlukcuTakipOtomasyonu\bin\Debug\GozlukcuTakipOtomasyonu.exe
+C:\Users\ASUS\Desktop\ntp performans\GozlukcuTakipOtomasyonu\GozlukcuTakipOtomasyonu\bin\Debug\GozlukcuTakipOtomasyonu.pdb
+C:\Users\ASUS\Desktop\ntp performans\GozlukcuTakipOtomasyonu\GozlukcuTakipOtomasyonu\obj\Debug\GozlukcuTakipOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\ntp performans\GozlukcuTakipOtomasyonu\GozlukcuTakipOtomasyonu\obj\Debug\GozlukcuTakipOtomasyonu.Form1.resources
+C:\Users\ASUS\Desktop\ntp performans\GozlukcuTakipOtomasyonu\GozlukcuTakipOtomasyonu\obj\Debug\GozlukcuTakipOtomasyonu.Properties.Resources.resources
+C:\Users\ASUS\Desktop\ntp performans\GozlukcuTakipOtomasyonu\GozlukcuTakipOtomasyonu\obj\Debug\GozlukcuTakipOtomasyonu.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\ntp performans\GozlukcuTakipOtomasyonu\GozlukcuTakipOtomasyonu\obj\Debug\GozlukcuTakipOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ntp performans\GozlukcuTakipOtomasyonu\GozlukcuTakipOtomasyonu\obj\Debug\GozlukcuTakipOtomasyonu.exe
+C:\Users\ASUS\Desktop\ntp performans\GozlukcuTakipOtomasyonu\GozlukcuTakipOtomasyonu\obj\Debug\GozlukcuTakipOtomasyonu.pdb
+E:\ntp performans\GozlukcuTakipOtomasyonu\GozlukcuTakipOtomasyonu\bin\Debug\GozlukcuTakipOtomasyonu.exe.config
+E:\ntp performans\GozlukcuTakipOtomasyonu\GozlukcuTakipOtomasyonu\bin\Debug\GozlukcuTakipOtomasyonu.exe
+E:\ntp performans\GozlukcuTakipOtomasyonu\GozlukcuTakipOtomasyonu\bin\Debug\GozlukcuTakipOtomasyonu.pdb
+E:\ntp performans\GozlukcuTakipOtomasyonu\GozlukcuTakipOtomasyonu\obj\Debug\GozlukcuTakipOtomasyonu.csproj.AssemblyReference.cache
+E:\ntp performans\GozlukcuTakipOtomasyonu\GozlukcuTakipOtomasyonu\obj\Debug\GozlukcuTakipOtomasyonu.csproj.SuggestedBindingRedirects.cache
+E:\ntp performans\GozlukcuTakipOtomasyonu\GozlukcuTakipOtomasyonu\obj\Debug\GozlukcuTakipOtomasyonu.Form1.resources
+E:\ntp performans\GozlukcuTakipOtomasyonu\GozlukcuTakipOtomasyonu\obj\Debug\GozlukcuTakipOtomasyonu.Properties.Resources.resources
+E:\ntp performans\GozlukcuTakipOtomasyonu\GozlukcuTakipOtomasyonu\obj\Debug\GozlukcuTakipOtomasyonu.csproj.GenerateResource.cache
+E:\ntp performans\GozlukcuTakipOtomasyonu\GozlukcuTakipOtomasyonu\obj\Debug\GozlukcuTakipOtomasyonu.csproj.CoreCompileInputs.cache
+E:\ntp performans\GozlukcuTakipOtomasyonu\GozlukcuTakipOtomasyonu\obj\Debug\GozlukcuTakipOtomasyonu.exe
+E:\ntp performans\GozlukcuTakipOtomasyonu\GozlukcuTakipOtomasyonu\obj\Debug\GozlukcuTakipOtomasyonu.pdb
+C:\Users\Ege Yiğit Teknik\Desktop\GozlukcuTakipOtomasyonu\GozlukcuTakipOtomasyonu\bin\Debug\GozlukcuTakipOtomasyonu.exe.config
+C:\Users\Ege Yiğit Teknik\Desktop\GozlukcuTakipOtomasyonu\GozlukcuTakipOtomasyonu\obj\Debug\GozlukcuTakipOtomasyonu.exe
+C:\Users\Ege Yiğit Teknik\Desktop\GozlukcuTakipOtomasyonu\GozlukcuTakipOtomasyonu\obj\Debug\GozlukcuTakipOtomasyonu.pdb
+C:\Users\Ege Yiğit Teknik\Desktop\GozlukcuTakipOtomasyonu\GozlukcuTakipOtomasyonu\bin\Debug\GozlukcuTakipOtomasyonu.exe
+C:\Users\Ege Yiğit Teknik\Desktop\GozlukcuTakipOtomasyonu\GozlukcuTakipOtomasyonu\bin\Debug\GozlukcuTakipOtomasyonu.pdb
+C:\Users\Ege Yiğit Teknik\Desktop\GozlukcuTakipOtomasyonu\GozlukcuTakipOtomasyonu\bin\Debug\EntityFramework.dll
+C:\Users\Ege Yiğit Teknik\Desktop\GozlukcuTakipOtomasyonu\GozlukcuTakipOtomasyonu\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ege Yiğit Teknik\Desktop\GozlukcuTakipOtomasyonu\GozlukcuTakipOtomasyonu\bin\Debug\System.Data.SQLite.dll
+C:\Users\Ege Yiğit Teknik\Desktop\GozlukcuTakipOtomasyonu\GozlukcuTakipOtomasyonu\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Ege Yiğit Teknik\Desktop\GozlukcuTakipOtomasyonu\GozlukcuTakipOtomasyonu\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Ege Yiğit Teknik\Desktop\GozlukcuTakipOtomasyonu\GozlukcuTakipOtomasyonu\bin\Debug\EntityFramework.xml
+C:\Users\Ege Yiğit Teknik\Desktop\GozlukcuTakipOtomasyonu\GozlukcuTakipOtomasyonu\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ege Yiğit Teknik\Desktop\GozlukcuTakipOtomasyonu\GozlukcuTakipOtomasyonu\bin\Debug\System.Data.SQLite.xml
+C:\Users\Ege Yiğit Teknik\Desktop\GozlukcuTakipOtomasyonu\GozlukcuTakipOtomasyonu\obj\Debug\GozlukcuTakipOtomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\Ege Yiğit Teknik\Desktop\GozlukcuTakipOtomasyonu\GozlukcuTakipOtomasyonu\obj\Debug\GozlukcuTakipOtomasyonu.Form1.resources
+C:\Users\Ege Yiğit Teknik\Desktop\GozlukcuTakipOtomasyonu\GozlukcuTakipOtomasyonu\obj\Debug\GozlukcuTakipOtomasyonu.Properties.Resources.resources
+C:\Users\Ege Yiğit Teknik\Desktop\GozlukcuTakipOtomasyonu\GozlukcuTakipOtomasyonu\obj\Debug\GozlukcuTakipOtomasyonu.csproj.GenerateResource.Cache
+C:\Users\Ege Yiğit Teknik\Documents\GitHub\GozlukTakipOtomasyonu\GozlukcuTakipOtomasyonu\bin\Debug\GozlukcuTakipOtomasyonu.exe.config
+C:\Users\Ege Yiğit Teknik\Documents\GitHub\GozlukTakipOtomasyonu\GozlukcuTakipOtomasyonu\obj\Debug\GozlukcuTakipOtomasyonu.exe
+C:\Users\Ege Yiğit Teknik\Documents\GitHub\GozlukTakipOtomasyonu\GozlukcuTakipOtomasyonu\obj\Debug\GozlukcuTakipOtomasyonu.pdb
